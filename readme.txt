@@ -96,10 +96,10 @@ Var. 4.0.7
 ・Snapshot Areas
   ・Undo                  : キャプチャ領域の位置・大きさを1回前の状態に戻します(Ctrl+Z）
   ・Redo                  : Undoで戻した状態をやり直しします(Ctrl+Y)
-  ・SpecifySize	          : キャプチャサイズを数値で乳に浴します。(Ctrl＋F)
+  ・SpecifySize	          : キャプチャサイズを数値で入力します。(F2)
   ・Show Saved Areas      : 保存したキャプチャ領域位置を確認します。(0キーでOn/Off)
-  ・#1 (x,y)-(x,y)        : キャプチャ領域位置を保存できます。（Ctrl+1で保存、1キーでロード)
-  ・#5 (x,y)-(x,y)        : キャプチャ領域位置を保存できます。（Ctrl+5で保存、5キーでロード)
+  ・#1 (x,y)-(x,y)        : キャプチャ領域位置を保存できます。（Ctrl+1～5で保存、1～5キーでロード)
+                            外部ディスプレイの接続で位置が変わることがあります。
 ・Info Copy
   ・SnapArea              : キャプチャ領域の座標情報をクリップボードにコピーします。
   ・SnapSize              : キャプチャ領域のサイズ情報をクリップボードにコピーします。
@@ -111,7 +111,7 @@ Var. 4.0.7
   ・Show SnapArea Size    : キャプチャ領域のサイズ値を左上に表示します。(Sキー)
   ・Show Mouse Cursor     : マウスカーソルもキャプチャします。(Mキー)
   ・RealTime Screen Mode  : デスクトップをリアルタイム表示します。拡大鏡は利用できなくなります。(Ctrl+R)
-  ・Popup Picture         : キャプチャ領域をポップアップwindowで表示します。一時的なメモ用途に。（Ctrl＋P）
+  ・Popup Picture         : キャプチャ領域をポップアップwindowで表示します。一時的なメモ用途に。（Ctrl＋Shift+E）
 ・Filter
   ・Reverse B/W           : 黒と白を入れ替えてコピーします。(BキーでOn/Off)
   ・Nega                  : ネガ反転色でコピーします。(NキーでOn/Off)

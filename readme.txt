@@ -1,4 +1,4 @@
-TheSnapShot
+KmtSnapShot
 Var. 4.0.9
 (c)2012-2019 Kazuhiro Kimoto
 

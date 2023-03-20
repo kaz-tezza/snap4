@@ -43,6 +43,6 @@
 [^2]: オプションで任意のキーに変更できます。
 
 ### ◆Author
-(c)2012-2019 Kazuhiro Kimoto
+(c)2012-2023 Kazuhiro Kimoto
 
 ---

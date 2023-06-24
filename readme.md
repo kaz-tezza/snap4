@@ -2,7 +2,7 @@
 
 ![](docs/snap4logo.png) KmtSnapShot
 
-![](https://img.shields.io/badge/version-v4.0.9-green)
+![](https://img.shields.io/badge/version-v4.0.10-green)
 ![](https://img.shields.io/github/repo-size/kaz-tezza/snap4)
 ![](https://img.shields.io/badge/Author-kaztezza-blue)
 

@@ -8,6 +8,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - nothing.
 
+## [4.0.10] - 2023-06-25
+### Added
+- グリップサイズをパラメータ化。iniの[Option]GripSize=5
+### Fixed
+- マウスカーソル非表示で起動するとカーソル表示ができないバグ修正
+
 ## [4.0.9] - 2023-02-23
 ### Added
 - 表示言語 日本語対応

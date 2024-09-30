@@ -2,7 +2,7 @@
 
 ![](docs/snap4logo.png) KmtSnapShot
 
-![](https://img.shields.io/badge/version-v4.0.10-green)
+![](https://img.shields.io/badge/version-v4.0.11-green)
 ![](https://img.shields.io/github/repo-size/kaz-tezza/snap4)
 ![](https://img.shields.io/badge/Author-kaztezza-blue)
 
@@ -46,4 +46,4 @@
 (c)2012-2024 Kazuhiro Kimoto
 
 ---
-<a href="https://github.com/kaz-tezza/snap4/blob/master/docs/CHANGELOG.md">変更履歴 CHANGE.md</a>
+<a href="https://github.com/kaz-tezza/snap4/blob/master/docs/CHANGELOG.md">変更履歴 CHANGELOG.md</a>

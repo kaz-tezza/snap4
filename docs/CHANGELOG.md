@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - nothing.
 
+## [4.0.11] - 2024-09-30
+### Added
+- Editor#2の指定を追加。Ctrl+Shift+E
+  デフォルトはOCR機能。
+
 ## [4.0.10] - 2023-06-25
 ### Added
 - グリップサイズをパラメータ化。iniの[Option]GripSize=5

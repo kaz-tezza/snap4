@@ -43,6 +43,7 @@
 [^2]: オプションで任意のキーに変更できます。
 
 ### ◆Author
-(c)2012-2023 Kazuhiro Kimoto
+(c)2012-2024 Kazuhiro Kimoto
 
 ---
+<a href="https://github.com/kaz-tezza/snap4/blob/master/docs/CHANGELOG.md">変更履歴 CHANGE.md</a>

@@ -8,10 +8,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - nothing.
 
-## [4.0.11] - 2024-09-30
+## [4.1.0] - 2024-09-30
 ### Added
-- Editor#2の指定を追加。Ctrl+Shift+E
-  デフォルトはOCR機能。
+- TesseractOCR機能ツールを追加
+- Editor2, Editor3をOption設定に追加。
+- グリップサイズ、背景色をOpthion設定に追加。
 
 ## [4.0.10] - 2023-06-25
 ### Added
@@ -83,7 +84,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - 未選択状態でコピーなどを行うと、リソースエラーが発生する不具合を修正。
      
 
-[Unreleased]: https://github.com/kaz-tezza/snap4/compare/v4.0.9...HEAD
+[Unreleased]: https://github.com/kaz-tezza/snap4/compare/v4.1.0...HEAD
+[4.1.0]: https://github.com/kaz-tezza/snap4/compare/v4.0.9...v4.1.0
 [4.0.9]: https://github.com/kaz-tezza/snap4/compare/v4.0.8...v4.0.9
 [4.0.8]: https://github.com/kaz-tezza/snap4/compare/v4.0.7...v4.0.8
 [4.0.7]: https://github.com/kaz-tezza/snap4/compare/v4.0.6...v4.0.7

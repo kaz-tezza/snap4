@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - TesseractOCR機能ツールを追加
 - Editor2, Editor3をOption設定に追加。
 - グリップサイズ、背景色をOpthion設定に追加。
+- ２値化フィルタを追加。
+- フィルタ設定変更時に変更内容を一定時間表示。
 
 ## [4.0.10] - 2023-06-25
 ### Added

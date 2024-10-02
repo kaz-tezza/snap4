@@ -22,12 +22,14 @@ Tools=ツール(&T)
   Show Magnifying Glass=拡大鏡表示(&Z)
   Show SnapArea Size=サイズ表示(&S)
   Realtime Screen Mode=リアルタイム表示(&R)
-  Popup picture=ポップウインドウ表示(&P)
+  OCR Tool=文字認識(&O)...
+  Popup Picture=ポップウインドウ表示(&P)...
 Filter=フィルタ(&F)
   Reverse B/W=白黒反転(&W)
   Nega=ネガ反転(&N)
+  1bit Color=２値化(&2)
   Border Line=境界線表示(&B)
-  Mouse Cursor=カーソル表示(&M)
+  Show Mouse Cursor=カーソル表示(&M)
 Close This Menu=メニューを閉じる(&M)
 Cancel=キャンセル(&C)
 

@@ -8,6 +8,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - nothing.
 
+## [4.1.01] - 2025-01-20
+### Added
+- 画像ポップアップ表示にロック設定を追加。Escキーで閉じなくできる
+- 画像ポップアップ表示を半透明設定追加 Shift＋スクロール
+### Changed
+- Windows11のMSpaintのパスが変わったためエディタの有無チェック削除
+- RealTimeModeでSnapAreaが画面外の時、起動が分かりにくいためSnapをResetする仕様に
+- OCRウインドウが画面外の時に画面内に戻す
+### Fixed
+- RealTimeModeで範囲未指定の時に画面が真っ白になってしまうバグ修正
+
+
 ## [4.1.0] - 2024-09-30
 ### Added
 - TesseractOCR機能ツールを追加
@@ -87,6 +99,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
      
 
 [Unreleased]: https://github.com/kaz-tezza/snap4/compare/v4.1.0...HEAD
+[4.1.01]: https://github.com/kaz-tezza/snap4/compare/v4.0.9...v4.1.01
 [4.1.0]: https://github.com/kaz-tezza/snap4/compare/v4.0.9...v4.1.0
 [4.0.9]: https://github.com/kaz-tezza/snap4/compare/v4.0.8...v4.0.9
 [4.0.8]: https://github.com/kaz-tezza/snap4/compare/v4.0.7...v4.0.8
